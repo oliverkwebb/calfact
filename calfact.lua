@@ -1,6 +1,5 @@
 --[[
 By Oliver Webb (c) 2024, Under 0BSD License
-
 See 2nd edition AWK book page 88 -> 90
 --]]
 -- [Symbol][Reference][Value]
@@ -157,3 +156,4 @@ function resolve(sym)
 end
 
 resolve("TCALFACT")
+print("")
